@@ -27,7 +27,7 @@ UI Designer & Desenvolvedora Back-end em formação
 
 Sou estudante do ensino médio na **EEEP Luiza de Teodoro Vieira**, com foco em desenvolvimento web.
 
-Tenho interesse em criar interfaces bonitas, funcionais e intuitivas, unindo design e programação. Atualmente estou me desenvolvendo para me tornar uma **UI Designer e Desenvolvedora Full Stack**.
+Tenho interesse em criar interfaces bonitas, funcionais e intuitivas, unindo design e programação. Atualmente estou me desenvolvendo para me tornar uma **UI Designer e Desenvolvedora Back-end**.
 
 ---
 
