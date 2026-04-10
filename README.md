@@ -6,7 +6,7 @@ Ana <span style="color:#9CA3AF;">Mel</span>
 </h1>
 
 <p>
-UI Designer & Desenvolvedora Full Stack em formação
+UI Designer & Desenvolvedora Back-end em formação
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=6FCF97&size=22&center=true&vCenter=true&width=500&lines=Construindo+interfaces+modernas;Apaixonada+por+design+e+código;Futura+Full+Stack+Developer" />
