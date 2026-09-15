@@ -6,10 +6,10 @@ Ana <span style="color:#9CA3AF;">Mel</span>
 </h1>
 
 <p>
-UI Designer & Desenvolvedora Back-end em formação
+Estudante de Informática | Back-end Developer in progress
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=6FCF97&size=22&center=true&vCenter=true&width=500&lines=Construindo+interfaces+modernas;Apaixonada+por+design+e+código;Futura+Back+end+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=6FCF97&size=22&center=true&vCenter=true&width=600&lines=Construindo+minha+jornada+no+Back-end;Apaixonada+por+tecnologia+e+projetos;Futura+Back-end+Developer" />
 
 </div>
 
@@ -25,58 +25,77 @@ UI Designer & Desenvolvedora Back-end em formação
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante do ensino médio na **EEEP Luiza de Teodoro Vieira**, com foco em desenvolvimento web.
+Sou estudante do Ensino Médio integrado ao **Técnico em Informática**, na **EEEP Luiza de Teodoro Vieira**.
 
-Tenho interesse em criar interfaces bonitas, funcionais e intuitivas, unindo design e programação. Atualmente estou me desenvolvendo para me tornar uma **UI Designer e Desenvolvedora Back-end**.
+Atualmente, estou construindo minha carreira na área de tecnologia com foco em **desenvolvimento Back-end**.
+
+Estou estudando **Java, Programação Orientada a Objetos, Banco de Dados, SQL, Git e GitHub**, buscando transformar o que aprendo em projetos práticos e evoluir cada vez mais como desenvolvedora.
+
+Também tenho interesse futuro em **APIs e desenvolvimento Web**.
 
 ---
 
-## 🚀 Tecnologias
+## 🖥️ Tecnologias
+
+### 📚 Atualmente estudando
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=6FCF97"/>
+<img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=6FCF97"/>
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=6FCF97"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=6FCF97"/>
 
 </div>
 
----
-
-## 🌐 Contato
+### 🔜 Próximas
 
 <div align="center">
 
-<a href="https://www.instagram.com/anamelcp?igsh=ZDZxa21nYXR0eG90">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=php,html,css" />
 
-<a href="https://x.com/secretdabelha">
-  <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://open.spotify.com/user/3123z3zdj3erxuyzlywtovpiqv34?si=8WpIIaJKQ8agMEAYVa_QbQ">
-  <img src="https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-
-<a href="https://boxd.it/kAatZ">
-  <img src="https://img.shields.io/badge/Letterboxd-000?style=for-the-badge&logo=letterboxd&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anacavalc">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=6FCF97"/>
+<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=6FCF97"/>
+<img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=6FCF97"/>
+<img src="https://img.shields.io/badge/APIs-000?style=for-the-badge&logo=fastapi&logoColor=6FCF97"/>
 
 </div>
 
----
-
-## ✨ Objetivo
-
-Construir uma carreira na área de tecnologia, unindo desenvolvimento e design para criar projetos modernos, funcionais e com uma boa experiência para o usuário.
+> PHP, HTML, CSS e APIs fazem parte dos meus **próximos objetivos de aprendizado**.
 
 ---
+
+## 🛣️ My Journey
 
 <div align="center">
 
-<sub>💚 Desenvolvendo hoje o futuro que eu quero viver</sub>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130px"/>
 
 </div>
+
+Minha jornada no Back-end está sendo construída por etapas:
+
+```text
+Fundamentos da Programação
+          ↓
+Lógica de Programação
+          ↓
+Programação Orientada a Objetos
+          ↓
+Banco de Dados
+          ↓
+SQL
+          ↓
+APIs
+          ↓
+Desenvolvimento Back-end
+          ↓
+Projetos completos
+          ↓
+Portfólio profissional
